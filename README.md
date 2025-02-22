@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [StudySustainabilityHub.com](https://studysustainabilityhub.com)
 
-- 🌱 I’m currently learning **Reactjs, NLP with python**
+- 🌱 I’m currently learning **AI, ML and NLP with python**
 
 - 👨‍💻 All of my projects are available at [https://bitbucket.org/Awin-Samp/](https://bitbucket.org/Awin-Samp/)
 
 - 📫 How to reach me **awinsamp@protonmail.com**
 
-- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1-pwTElr4QkCZ8wNKfWj_fshbLvSuz_y2/view?usp=sharing](https://drive.google.com/file/d/1ZpMzP8a3AQeu4oWkv-19l4yoKCDcOTJd/view?usp=sharing))
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ZpMzP8a3AQeu4oWkv-19l4yoKCDcOTJd/view?usp=sharing)
 
 - ⚡ Fun fact **I like to read manga**
 
