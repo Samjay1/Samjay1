@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barnabas Awin-Me Samp</h1>
 <h3 align="center">I am an enthusiast, focused and well skilled individual in computers, communication, leadership, technical and analytical abilities. I am good at multitasking and meet the necessary goals set. Deadline-driven professional offering a wealth of expertise in building frontend and backend apps including; websites, mobile apps and APIs for the emerging industries. Focused and driven with strengths in coding and bug resolution</h3>
 
-- 🔭 I’m currently working on [Listed](https://play.google.com/store/apps/details?id=com.listedcorp.listed)
+- 🔭 I’m currently working on [StudySustainabilityHub.com](https://studysustainabilityhub.com)
 
 - 🌱 I’m currently learning **Reactjs, NLP with python**
 
