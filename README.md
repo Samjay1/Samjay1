@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **awinsamp@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-pwTElr4QkCZ8wNKfWj_fshbLvSuz_y2/view?usp=sharing](https://drive.google.com/file/d/1-pwTElr4QkCZ8wNKfWj_fshbLvSuz_y2/view?usp=sharing)
+- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1-pwTElr4QkCZ8wNKfWj_fshbLvSuz_y2/view?usp=sharing](https://drive.google.com/file/d/1ZpMzP8a3AQeu4oWkv-19l4yoKCDcOTJd/view?usp=sharing))
 
 - ⚡ Fun fact **I like to read manga**
 
